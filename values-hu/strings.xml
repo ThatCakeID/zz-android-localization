@@ -25,7 +25,7 @@
     <string name="signup">Regisztráció</string>
     <string name="email">Email cím</string>
     <string name="password">Jelszó</string>
-    <string name="repassword">Jelszó megismétlése</string>
+    <string name="repassword">Jelszó megerősítés</string>
     <string name="username">Felhasználónév</string>
     <string name="new_user">Új felhasználó?</string>
     <string name="old_user">Már van fiókja?</string>
