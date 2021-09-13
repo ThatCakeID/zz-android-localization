@@ -1,15 +1,15 @@
 <resources>
 
     <!-- Preference Titles -->
-    <string name="ui_header">User Interface</string>
-    <string name="audiop_header">Audio Playback</string>
+    <string name="ui_header">Felhasználói felület</string>
+    <string name="audiop_header">Audio sebessége</string>
 
     <!-- UI Preferences -->
-    <string name="theme_title">Theme</string>
-    <string name="player_title">Player Mode</string>
-    <string name="imagep_title">Show music thumbnail</string>
-    <string name="imagep_summary_on">Show music thumbnail preview at home screen</string>
-    <string name="imagep_summary_off">Don\'t show music thumbnail preview at home screen</string>
+    <string name="theme_title">Téma</string>
+    <string name="player_title">Lejátszó mód</string>
+    <string name="imagep_title">A zene borítójának megjelenítése</string>
+    <string name="imagep_summary_on">A zene borító előnézetének megjelenítése a kezdőlapon</string>
+    <string name="imagep_summary_off">Ne mutassa a zene borító előnézetét a kezdőlapon</string>
 
     <!-- Audio Playback Preferences -->
 
