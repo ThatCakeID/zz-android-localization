@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="ui_header">User Interface</string>
+    <string name="audiop_header">Audio Playback</string>
+
+    <!-- UI Preferences -->
+    <string name="theme_title">Theme</string>
+    <string name="player_title">Player Mode</string>
+    <string name="imagep_title">Show music thumbnail</string>
+    <string name="imagep_summary_on">Show music thumbnail preview at home screen</string>
+    <string name="imagep_summary_off">Don\'t show music thumbnail preview at home screen</string>
+
+    <!-- Audio Playback Preferences -->
+
+
+    <string name="app_name">ZryteZene</string>
+    <string name="action_settings">Beállítasok</string>
+    <string name="action_profile">Profil</string>
+    <string name="new_update">Új frissítés érhető el</string>
+    <string name="version">Verziószám:</string>
+    <string name="released_in">Megjelent ekkor:</string>
+    <string name="welcome">Üdvözlünk!</string>
+    <string name="signin">Bejelentkezés</string>
+    <string name="signup">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="password">Jelszó</string>
+    <string name="repassword">Jelszó megismétlése</string>
+    <string name="username">Felhasználónév</string>
+    <string name="new_user">Új felhasználó?</string>
+    <string name="old_user">Már van fiókja?</string>
+    <string name="forgot_pass">Elfelejtette jelszavát?</string>
+    <string name="uploaded_musics">Feltöltött zenék</string>
+    <string name="main_preferences_key">data</string>
+    <string name="activity_debug">Debug</string>
+
+</resources>
