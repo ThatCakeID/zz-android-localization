@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="ui_header">Giao diện</string>
+    <string name="audiop_header">Phát lại âm thanh</string>
+
+    <!-- UI Preferences -->
+    <string name="theme_title">Chủ đề</string>
+    <string name="player_title">Chế độ phát</string>
+    <string name="imagep_title">Hiện hình thu nhỏ</string>
+    <string name="imagep_summary_on">Hiện hình thu nhỏ ở màn hình chính</string>
+    <string name="imagep_summary_off">Không hiện hình thu nhỏ ở màn hình chính</string>
+
+    <!-- Audio Playback Preferences -->
+
+
+    <string name="app_name">ZryteZene</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_profile">Trang cá nhân</string>
+    <string name="new_update">Có bản cập nhật mới</string>
+    <string name="version">Phiên bản:</string>
+    <string name="released_in">Phát hành vào:</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="signin">Đăng nhập</string>
+    <string name="signup">Đăng ký</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="repassword">Nhập lại mật khẩu</string>
+    <string name="username">Tên người dùng</string>
+    <string name="new_user">Người dùng mới?</string>
+    <string name="old_user">Đã đăng ký?</string>
+    <string name="forgot_pass">Bạn quên mật khẩu?</string>
+    <string name="uploaded_musics">Các bài hát đã tải lên</string>
+    <string name="main_preferences_key">data</string>
+    <string name="activity_debug">Có lỗi xảy ra!</string>
+
+</resources>
