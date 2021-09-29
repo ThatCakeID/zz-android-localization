@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="ui_header">Tampilan Antarmuka</string>
+    <string name="audiop_header">Pemutaran Audio</string>
+
+    <!-- UI Preferences -->
+    <string name="theme_title">Tema</string>
+    <string name="player_title">Mode Player</string>
+    <string name="imagep_title">Tampilkan pratinjau musik</string>
+    <string name="imagep_summary_on">Tampilkan pratinjau musik di layar beranda</string>
+    <string name="imagep_summary_off">Jangan tampilkan pratinjau musik di layar beranda</string>
+
+    <!-- Audio Playback Preferences -->
+
+
+    <string name="app_name">ZryteZene</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_profile">Profil</string>
+    <string name="new_update">Pembaruan terbaru telah tersedia</string>
+    <string name="version">Versi:</string>
+    <string name="released_in">Dirilis pada:</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Ketik ulang password</string>
+    <string name="username">Username</string>
+    <string name="new_user">User baru?</string>
+    <string name="old_user">Sudah daftar?</string>
+    <string name="forgot_pass">Lupa Password?</string>
+    <string name="uploaded_musics">Musik yang diunggah</string>
+    <string name="main_preferences_key">data</string>
+    <string name="activity_debug">Debug</string>
+
+</resources>
