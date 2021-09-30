@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="ui_header">User Interface</string>
+    <string name="audiop_header">Audio Playback</string>
+
+    <!-- UI Preferences -->
+    <string name="theme_title">Tema</string>
+    <string name="player_title">Player Mode</string>
+    <string name="imagep_title">Ipakita yung music thumbnail</string>
+    <string name="imagep_summary_on">Ipakita ang music thumbnail preview sa home screen</string>
+    <string name="imagep_summary_off">Wag-ipakita ang show music thumbnail preview sa home screen</string>
+
+    <!-- Audio Playback Preferences -->
+
+
+    <string name="app_name">ZryteZene</string>
+    <string name="action_settings">Mga setting</string>
+    <string name="action_profile">Profile</string>
+    <string name="new_update">Merong available na update</string>
+    <string name="version">Version:</string>
+    <string name="released_in">Na-release noong:</string>
+    <string name="welcome">Welcome</string>
+    <string name="signin">Mag-sign In</string>
+    <string name="signup">Mag-sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-type password</string>
+    <string name="username">Username</string>
+    <string name="new_user">Bagong User?</string>
+    <string name="old_user">Naka signed-up na?</string>
+    <string name="forgot_pass">Nakalimutan yung Password?</string>
+    <string name="uploaded_musics">Na-uploaded na mga Musika</string>
+    <string name="main_preferences_key">data</string>
+    <string name="activity_debug">Debug</string>
+
+</resources>
