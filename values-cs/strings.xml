@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="ui_header">Uživatelské rozhraní</string>
+    <string name="audiop_header">Přehrávání audia</string>
+
+    <!-- UI Preferences -->
+    <string name="theme_title">Motiv</string>
+    <string name="player_title">Režim přehrávače</string>
+    <string name="imagep_title">Zobrazování náhledového obrázku hudby</string>
+    <string name="imagep_summary_on">Zobrazovat na domovské stránce náhledový obrázek hudby</string>
+    <string name="imagep_summary_off">Nezobrazovat na domovské stránce náhledový obrázek hudby</string>
+
+    <!-- Audio Playback Preferences -->
+
+
+    <string name="app_name">ZryteZene</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="action_profile">Profil</string>
+    <string name="new_update">Je dostupná nová aktualizace</string>
+    <string name="version">Verze:</string>
+    <string name="released_in">Vydáno:</string>
+    <string name="welcome">Vítejte</string>
+    <string name="signin">Přihlásit se</string>
+    <string name="signup">Registrovat se</string>
+    <string name="email">E-mail</string>
+    <string name="password">Heslo</string>
+    <string name="repassword">Znovu zadejte heslo</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="new_user">Nový uživatel?</string>
+    <string name="old_user">Již jste se registrovali?</string>
+    <string name="forgot_pass">Zapomněli jste heslo?</string>
+    <string name="uploaded_musics">Nahraná hudba</string>
+    <string name="main_preferences_key">data</string>
+    <string name="activity_debug">Ladění</string>
+
+</resources>
